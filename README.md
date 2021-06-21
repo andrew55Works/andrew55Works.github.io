@@ -1,2 +1,2 @@
 # andrew55Works.github.io
-mindtrix-demo
+mindtrix-site-demo
